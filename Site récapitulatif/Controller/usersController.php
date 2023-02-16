@@ -3,11 +3,11 @@
 $uri = $_SERVER['REQUEST_URI'];
 
 if($uri === '/login'){
-    require_once "Templates/users/login.php";
-}else if ($uri === '/inscription'){
-    require_once "Templates/users/profil.php";
+    require_once "Templates/Users/login.php";
+}else if ($uri === '/profil'){
+    require_once "Templates/Users/profil.php";
 }else if ($uri === '/register'){
-    require_once "Templates/users/register.php";
+    require_once "Templates/Users/register.php";
 }
 
 ?>

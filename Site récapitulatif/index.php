@@ -16,14 +16,14 @@
 <body class="palo">
 <header>
         <ul class="flex space-evenly">
-            <li class="menu"><a href="index.php">Home</a></li>
-            <li  class="menu"><a href="profil.php">Page profil</a></li>
+            <li class="menu"><a href="/">Home</a></li>
+            <li  class="menu"><a href="profil">Page profil</a></li>
             <li class="menu"><a href="/login">Se connecter</a></li>
-            <li class="menu"><a href="register.php">S'inscrire</a></li>
-            <li class="imageMenu"><a href="index.php"><ion-icon size="large" name="home-outline"></ion-icon></a></li>
-            <li class="imageMenu"><a href="profil.php"><ion-icon size="large" name="person-outline"></ion-icon></a></li>
-            <li class="imageMenu"><a href="login.php"><ion-icon size="large" name="accessibility-outline"></ion-icon></a></li>
-            <li class="imageMenu"><a href="register.php"><ion-icon size="large" name="person-add-outline"></ion-icon></a></li>
+            <li class="menu"><a href="/register">S'inscrire</a></li>
+            <li class="imageMenu"><a href="/index"><ion-icon size="large" name="home-outline"></ion-icon></a></li>
+            <li class="imageMenu"><a href="/profil"><ion-icon size="large" name="person-outline"></ion-icon></a></li>
+            <li class="imageMenu"><a href="/login"><ion-icon size="large" name="accessibility-outline"></ion-icon></a></li>
+            <li class="imageMenu"><a href="/register"><ion-icon size="large" name="person-add-outline"></ion-icon></a></li>
 
         </ul>
     </header>

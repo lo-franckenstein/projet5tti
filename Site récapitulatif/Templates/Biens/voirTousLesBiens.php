@@ -8,7 +8,7 @@
             <div class="center">
                 <p><span>250m²</span> - <span>Gembloux</span></p>
                 <h3>250000€</h3>
-                <a href="voirLeBien.php" class="btn btn-page">Voir le bien</a>
+                <a href="/voirLeBien" class="btn btn-page">Voir le bien</a>
             </div>
         </div>
     </div>
@@ -19,7 +19,7 @@
             <div class="center">
                 <p><span>300m²</span> - <span>Bruxelles</span></p>
                 <h3>310000€</h3>
-                <a href="voirLeBien.php" class="btn btn-page">Voir le bien</a>
+                <a href="/voirLeBien" class="btn btn-page">Voir le bien</a>
             </div>
         </div>
     </div>
@@ -30,7 +30,7 @@
             <div class="center">
                 <p><span>150m²</span> - <span>Charleroi</span></p>
                 <h3>250000€</h3>
-                <a href="voirLeBien.php" class="btn btn-page">Voir le bien</a>
+                <a href="/voirLeBien" class="btn btn-page">Voir le bien</a>
             </div>
         </div>
     </div>
@@ -41,7 +41,7 @@
             <div class="center">
                 <p><span>150m²</span> - <span>Ardenne</span></p>
                 <h3>156000€</h3>
-                <a href="voirLeBien.php" class="btn btn-page">Voir le bien</a>
+                <a href="/voirLeBien" class="btn btn-page">Voir le bien</a>
             </div>
         </div>
     </div>
